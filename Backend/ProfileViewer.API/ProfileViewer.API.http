@@ -1,0 +1,6 @@
+@ProfileViewer.API_HostAddress = http://localhost:5003
+
+GET {{ProfileViewer.API_HostAddress}}/
+Accept: application/json
+
+###
